@@ -55,7 +55,7 @@ built-in database that lets you write your
 [Rust](https://docs.convex.dev/client/rust),
 [ReactNative](https://docs.convex.dev/client/react-native), and
 [Node](https://docs.convex.dev/client/javascript) clients, as well as a straightforward
-[HTTP API](https://github.com/get-convex/convex-js/blob/main/src/browser/http_client.ts#L40).
+[HTTP API](https://github.com/convex/convex-js/blob/main/src/browser/http_client.ts#L40).
 
 The database support
 [NoSQL-style documents](https://docs.convex.dev/database/document-storage) with

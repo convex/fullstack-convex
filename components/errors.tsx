@@ -14,7 +14,7 @@ function newBugLink(
   location?: string
 ) {
   const base =
-    'https://github.com/get-convex/fullstack-convex/issues/new?labels=bug'
+    'https://github.com/convex/fullstack-convex/issues/new?labels=bug'
 
   const title = getTitle(name, message, location)
   const body = `Please add any additional details you'd like to share about this error:%0A`
